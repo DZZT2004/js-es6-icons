@@ -1,0 +1,17 @@
+h1{
+    color: #29b1dd;
+}
+
+.filtro{
+    background-color: #29b1dd;
+    height: 90px;
+    padding-right: 150px;
+}
+
+select{
+    display: inline-block;
+    width: 45px;
+    height: 24px;
+    position: relative;
+    top: 30px;
+}
