@@ -14,4 +14,39 @@ select{
     height: 24px;
     position: relative;
     top: 30px;
+    background-color: #b6e7f0;
+}
+
+span{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+.icone{
+    gap: 75px;
+}
+
+.carta{
+    height: 140px;
+    border: 1px outset;
+    border-style: outset;
+
+}
+
+.icona{
+    width: 100%;
+    font-size: 48px;
+}
+
+.blu{
+    color: blue;
+}
+
+.arancione{
+    color: orange;
+}
+
+.green{
+    color: green;
 }
